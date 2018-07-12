@@ -1,0 +1,44 @@
+body{
+  background-color: rgb(255, 232, 188);
+  font-family: "Gaegu";
+  text-align: center;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.top{
+  font-family: "Gaegu";
+  text-align: center;
+  font-size: 110px;
+  font-weight: 500;
+}
+
+table td {
+  width: 500px;
+}
+
+table{
+  width: 90%;
+  height: 40px;
+}
+
+.menu{
+  background-color: rgb(255, 216, 145);
+}
+
+.button {
+    background-color: rgb(255, 216, 145);
+    border: none;
+    color: black;
+    padding: 5px 70px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button:hover{
+  background-color: rgb(255, 196, 89);
+}
