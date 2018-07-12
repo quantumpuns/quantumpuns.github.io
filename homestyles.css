@@ -13,6 +13,10 @@ body{
   font-weight: 500;
 }
 
+.top:visited{
+  text-decoration: none; color:black;
+}
+
 table td {
   width: 500px;
 }
@@ -41,4 +45,11 @@ table{
 
 .button:hover{
   background-color: rgb(255, 196, 89);
+}
+
+.abttable th{
+
+  text-align: left;
+  left-margin: auto;
+  right-margin: auto;
 }
