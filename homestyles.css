@@ -9,7 +9,7 @@ body{
 .top{
   font-family: "Gaegu";
   text-align: center;
-  font-size: 110px;
+  font-size: 100px;
   font-weight: 500;
 }
 
@@ -48,6 +48,27 @@ table{
   background-color: rgb(255, 196, 89);
 }
 
+.button1 {
+    background-color: rgb(255, 216, 145);
+    border: none;
+    color: black;
+    padding: 0px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button1:hover{
+  background-color: rgb(255, 196, 89);
+}
+
 .abttable th{
   text-align: left;
+}
+
+.blurb{
+  font-size: 30px;
 }
