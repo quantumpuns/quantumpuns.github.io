@@ -2,4 +2,4 @@
 
 Try https://quantumpuns.github.io/home.html!
 
-![alt text](webcomic-002.jpg)
+<img src = "webcomic-002.jpg height = "600>
